@@ -14,3 +14,4 @@
 * [ArrayListTask,HashSet,SpeedTset](https://github.com/Hhhhhwon/TIL/blob/main/Java/ArrayListTask,Hashset.md)
 * [쓰레드](https://github.com/Hhhhhwon/TIL/blob/main/Java/%EC%93%B0%EB%A0%88%EB%93%9C.md)
 * [파일입출력 Reader,Writer](https://github.com/Hhhhhwon/TIL/blob/main/Java/%ED%8C%8C%EC%9D%BC%EC%9E%85%EC%B6%9C%EB%A0%A5%20Reader,Writer.md)
+* [메소드 만들기 연습 예제](https://github.com/Hhhhhwon/TIL/blob/main/Java/%EB%A9%94%EC%86%8C%EB%93%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EC%97%B0%EC%8A%B5%20%EC%98%88%EC%A0%9C.md)
