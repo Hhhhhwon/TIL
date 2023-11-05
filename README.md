@@ -18,3 +18,4 @@
 ## ITWILL_SQL
 * [SQL시작,SELECT,WHERE](https://github.com/Hhhhhwon/TIL/blob/main/ITWILL%EA%B5%AD%EB%B9%84_SQL/day01SQL-Select,Where.md)
   * [GROUP BY와 SUBQUERY](https://github.com/Hhhhhwon/TIL/blob/a68c2f8b8aa913c1f58af09700359a328e924e04/ITWILL%EA%B5%AD%EB%B9%84_SQL/day02SQL-group%20by,%20subqurey.md)
+  * [WHERE](https://github.com/Hhhhhwon/TIL/blob/main/ITWILL%EA%B5%AD%EB%B9%84_SQL/day03SQL_where.md)
